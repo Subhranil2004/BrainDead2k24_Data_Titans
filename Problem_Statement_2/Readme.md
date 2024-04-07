@@ -5,8 +5,7 @@ This repository contains the solution for Problem Statement 2 of the BrainDead 2
 - **Model Documentation**: Detailed documentation outlining the architecture, training methodology, and key insights behind the developed multimodal machine learning model.
 - **Trained Models**: Pre-trained models demonstrating superior performance compared to existing benchmarks, along with performance metrics.
 - **Code**: Python code for developing and training the multimodal classification model, implemented using TensorFlow and Keras.
-- **Dataset**: The multimodal dataset containing internet memes with image and text data, along with class labels denoting harmful or non-harmful content.
--
+- **Dataset**: The multimodal dataset containing internet memes with image and text data, along with class labels denoting harmful or non-harmful content.  [Multimodal Data for Hateful Meme](https://www.kaggle.com/datasets/braindeadiiest/brain-dead-multimodal-data-for-hateful-meme?rvi=1)
 - **README.md**: Instructions for running the code, training the model, and evaluating performance.
 
 ### How to Use
